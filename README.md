@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesan Akter</h1>
-<h3 align="center">A passionate programmer studying computer science at University of Liverpool</h3>
+<h3 align="center">A passionate programmer, Computer Science graduate from the University of Liverpool.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jexperter&label=Profile%20views&color=0e75b6&style=flat" alt="jexperter" /> </p>
 
